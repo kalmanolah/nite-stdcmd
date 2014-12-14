@@ -1,5 +1,0 @@
-name:        nite-stdcmd
-description: Standard command module for NITE. Part of NITE Core.
-version:     0.0.1
-author:      Kalman Olah
-manifest:    ['nite_stdcmd', 'StdCmd']
